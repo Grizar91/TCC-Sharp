@@ -12,3 +12,4 @@ C:\Git\TCC-Sharp\Etapa01\obj\Debug\net8.0\refint\Etapa01.dll
 C:\Git\TCC-Sharp\Etapa01\obj\Debug\net8.0\Etapa01.pdb
 C:\Git\TCC-Sharp\Etapa01\obj\Debug\net8.0\Etapa01.genruntimeconfig.cache
 C:\Git\TCC-Sharp\Etapa01\obj\Debug\net8.0\ref\Etapa01.dll
+c:\Git\TCC-Sharp\Etapa01\obj\Debug\net8.0\Etapa01.sourcelink.json
