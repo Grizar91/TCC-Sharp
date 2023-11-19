@@ -1,4 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Points:");
-Console.WriteLine(500);
-Console.ReadLine();
+using System;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hi there!");
+    }
+}
