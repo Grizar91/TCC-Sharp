@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Git\\TCC-Sharp\\Etapa01\\Etapa01.csproj": {}
+    "C:\\Git\\TCC-Sharp\\Etapa01\\Etapa01.csproj": {}
   },
   "projects": {
-    "c:\\Git\\TCC-Sharp\\Etapa01\\Etapa01.csproj": {
+    "C:\\Git\\TCC-Sharp\\Etapa01\\Etapa01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Git\\TCC-Sharp\\Etapa01\\Etapa01.csproj",
+        "projectUniqueName": "C:\\Git\\TCC-Sharp\\Etapa01\\Etapa01.csproj",
         "projectName": "Etapa01",
-        "projectPath": "c:\\Git\\TCC-Sharp\\Etapa01\\Etapa01.csproj",
+        "projectPath": "C:\\Git\\TCC-Sharp\\Etapa01\\Etapa01.csproj",
         "packagesPath": "C:\\Users\\Novo\\.nuget\\packages\\",
-        "outputPath": "c:\\Git\\TCC-Sharp\\Etapa01\\obj\\",
+        "outputPath": "C:\\Git\\TCC-Sharp\\Etapa01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Novo\\AppData\\Roaming\\NuGet\\NuGet.Config"

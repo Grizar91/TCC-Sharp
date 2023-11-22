@@ -5,6 +5,9 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hi there!");
+    string text = "coding";
+    //text = "coding is hard";
+    text = "coding is fun";
+    Console.WriteLine(text);
     }
 }
